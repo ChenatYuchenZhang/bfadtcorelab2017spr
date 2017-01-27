@@ -1,6 +1,8 @@
 # Core lab: Environments
-### PUDT 2201 A Core Lab Environments: CT 15
-----------------------------------------
+Instructor: Yuchen Zhang
+Email: zhangy165@newschool.edu
+
+---
 
 ### Week 1 Introduction
 1. Introduction to the class, teachers background, students’ background, what are they looking to learn in this class and their interests.
@@ -57,7 +59,43 @@
 
 ### Week 16 Class Reflection
 
-----------------------------------------
+---
+
+### Themes
+	- interactive spaces
+	- immersive environments
+	- interdependency
+	- body as medium
+	- space as laboratory
+	- multiple sensory experiences
+
+### How
+	- networked interfaces
+	- multi-screen displays
+	- data structures/visualization
+	- hardware/software
+
+### Learning Outcome
+
+By the end of the semester, students will be able to:
+
+  1.  Demonstrate an understanding of spatial contexts as they affect interactive media relative to physical scale.
+  2. Expand their creative vocabulary in the design and creation of dynamic/interactive works, using new forms/processes/materials.
+  3. Develop a range of methods for the expression and articulation of ideas, including experimentation, information gathering, testing and refinement.
+  4. Articulate their thoughts, both in their own design process and in critical feedback to others.
+  5. Implement a final interactive project that integrates spatial or environmental themes in the class towards their own creative practice.  
+
+### Assessment Criteria
+- Attendance & Class Participation    	10%
+- Assignments				40%
+- Project 1				20%
+- Project 2				30%
+
+---
 
 Instructor: Yuchen Zhang
-Email: zhangy165@newschool.edu
+- [Personal Portfolio](http://yuchenzhang.com/)
+- Email: zhangy165@newschool.edu
+- Github: chenatyuchenzhang
+- [Class Github for resources](https://github.com/ChenatYuchenZhang/bfadtcorelab2017spr)
+- [Class blog](https://bfadtcorelab.wordpress.com/)
