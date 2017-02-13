@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<!-- Canvas animation based on https://www.kirupa.com/snippets/examples/simple_canvas_animation.htm -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>AnalogRead Example</title>
+</head>
+
+<body>
+
+<div id="serialValueContainer"></div>
+
+<script src = "/socket.io/socket.io.js"></script>
+<script>
+	var socket = io.connect('http://localhost:8080');
+	var serialValueDiv = document.getElementById("serialValueContainer"); // finding an element on the page by the element ID attribute.
+
+	socket.on('messages', function (data){
+	  console.log("Serial Value: " + data.serialValue);
+		serialValueDiv.innerHTML = data.serialValue;
+		socket.emit('getSerialVal');
+	});
+</script>
+
+</body></html>
