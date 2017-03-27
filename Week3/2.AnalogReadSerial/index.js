@@ -12,7 +12,7 @@ SerialPort.list(function (err, ports) {
 // with yours.
 
 var port = new SerialPort('/dev/cu.usbmodem1411', {
-  //parser: SerialPort.parsers.readline('\n')
+  parser: SerialPort.parsers.readline('\n')
 });
 
 port.on('data', function (data) {
