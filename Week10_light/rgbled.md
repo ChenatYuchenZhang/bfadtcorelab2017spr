@@ -18,9 +18,9 @@ The common negative connection of the LED package is the second pin from the fla
 
 Each LED inside the package requires its own 270Ω resistor to prevent too much current flowing through it. The three positive leads of the LEDs (one red, one green and one blue) are connected to Arduino output pins using these resistors.
 
-![LED](https://github.com/ChenatYuchenZhang/bfadtcorelab2017spr/tree/master/Week10_light/img/learn_arduino_rdb_led_cct_symbol.jpg "RGB LED")
+![LED](https://github.com/ChenatYuchenZhang/bfadtcorelab2017spr/blob/master/Week10_light/img/learn_arduino_rdb_led_cct_symbol.jpg "RGB LED")
 
-![Wiring](https://github.com/ChenatYuchenZhang/bfadtcorelab2017spr/tree/master/Week10_light/img/learn_arduino_fritzing.jpg "RGB LED Wiring")
+![Wiring](https://github.com/ChenatYuchenZhang/bfadtcorelab2017spr/blob/master/Week10_light/img/learn_arduino_fritzing.jpg "RGB LED Wiring")
 
 ### Arduino Code
 ```
