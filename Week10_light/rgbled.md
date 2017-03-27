@@ -14,7 +14,7 @@ You will need the following parts:
 - 5x Jumper Wires
 
 ### Breadboard Layout
-The common negative connection of the LED package is the second pin from the flat side of the LED package. It is also the longest of the four leads. This lead will be connected to ground.
+The common negative connection of the LED package is the second pin from the flat side of the LED package. It is also the longest of the four leads. This lead will be connected to ground or power depends on if your RGB led share the same ground pin or power pin.
 
 Each LED inside the package requires its own 270Ω resistor to prevent too much current flowing through it. The three positive leads of the LEDs (one red, one green and one blue) are connected to Arduino output pins using these resistors.
 

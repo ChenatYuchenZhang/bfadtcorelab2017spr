@@ -65,7 +65,7 @@ Plug in the lamp to your power switch taill and then plug in the power switch ta
 ### Warning
 Note that as this project involves dangerous voltages (110v or 230v), make sure that you never touch the project after it is plugged into an electrical socket.
 
-### examples
+### Technical examples
 1. [Capacitive Touch Holiday Light Control](https://learn.adafruit.com/capacitive-touch-holiday-light-control?view=allp)
 2. [Power Switch Tail: Control any AC Electrical Device Remotely via Spacebrew](http://docs.spacebrew.cc/tutorials/2013/2/6/power-switch-tail-contorl-any-ac-electrical-device-remotely-via-spacebrew)
 3. [Motion Sensing Night Light](http://learn.robotgeek.com/demo-code/109-motion-sensor-nightlight.html)
